@@ -1,0 +1,10 @@
+.idea
+*.iml
+*.iws
+log
+
+redismodule/test.*
+
+# for flask web
+web/test.*
+web/venv
