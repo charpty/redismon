@@ -4,6 +4,9 @@
 log
 
 redismodule/test.*
+redismodule/*.o
+redismodule/*.so
+redismodule/*.xo
 
 # for flask web
 web/test.*
